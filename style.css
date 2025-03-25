@@ -43,7 +43,7 @@ body {
 
 .love {
     position: absolute;
-    font-size: clamp(10px, 3vw, 40px);
+    font-size: clamp(50px, 3vw, 40px);
     opacity: 0;
     animation: float 5s infinite;
 }
@@ -193,7 +193,7 @@ button:hover {
     }
     
     .love {
-        font-size: clamp(25px, 5vw, 45px);
+        font-size: clamp(50px, 5vw, 45px);
     }
     
     .love-container {
@@ -207,7 +207,7 @@ button:hover {
     }
     
     .love {
-        font-size: clamp(20px, 8vw, 40px);
+        font-size: clamp(50px, 8vw, 40px);
     }
     
     .love-container {
